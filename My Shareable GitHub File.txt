@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my shareable GitHub file.
+=======
+My Shareable GitHub File
+>>>>>>> 33ea6fa (Add shareable file)
